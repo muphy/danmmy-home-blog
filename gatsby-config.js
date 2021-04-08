@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `단미닷컴 홈페이지`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `단미닷컴`,
+      summary: `danmmy.com product development groups`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `한국에서 가장 빠르게 가상화폐 거래소의 코인 이상 징후를 알려드리고 있습니다.`,
+    siteUrl: `https://www.danmmy.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `B6QOCgwTnUZ3xds`,
     },
   },
   plugins: [
